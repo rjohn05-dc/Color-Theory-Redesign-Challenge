@@ -1,0 +1,12 @@
+*{
+    font-size:large
+}
+body{
+    background-color:darkred
+    
+}
+
+.head{
+    display:flex;
+    justify-content: center;
+}
